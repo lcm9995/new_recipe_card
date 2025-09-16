@@ -4,7 +4,7 @@ import IngredientsList from './components/IngredientsList'
 import InstructionsList from './components/InstructionsList'
 import RecipeImg from './components/RecipeImg'
 import './components/RecipeCard.css'
-
+import Counter from './components/Counter'
 import {RECIPE} from './components/recipe_data'
 
 const App = () => {
